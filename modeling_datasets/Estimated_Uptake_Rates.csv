@@ -1,0 +1,77 @@
+label,Metabolite ID,Uptake Rate
+Thymine,thym_e,0.07394366197183098
+Uracil,ura_e,0.08157276995305164
+Adenine,ade_e,0.15023474178403756
+Hypoxanthine,hxan_e,0.181924882629108
+Cytosine,csn_e,0.2834507042253521
+Inosine,ins_e,0.31866197183098594
+Guanine,gua_e,0.36795774647887325
+Mannitol,mnl_e,0.49413145539906106
+Phenylalanine,phe__L_e,0.5269953051643192
+Leucine,ile__L_e,0.5469483568075117
+Isoleucine,ile__L_e,0.5698356807511737
+Tryptophan,trp__L_e,0.5962441314553991
+Methionine,metox_e,0.6126760563380281
+Proline,pro__L_e,0.6408450704225352
+Valine,val__L_e,0.6525821596244131
+Tyrosine,tyr__L_e,0.6960093896713615
+Alanine,ala_B_e,0.7869718309859155
+Threonine,thr__L_e,0.7916666666666667
+Glycine,gly_e,0.8274647887323944
+Serine,hom__L_e,0.8397887323943662
+Glutamine,gln__L_e,0.8397887323943662
+Asparagine,asn__L_e,0.8433098591549296
+Trehalose,tre_e,0.8345070422535212
+Histidine,his__L_e,0.8732394366197184
+Glutamic acid,nacg_e,0.9354460093896714
+Aspartic acid,asp__L_e,0.9465962441314554
+Cystine,cysi__L_e,0.9917840375586854
+Arginine,arg__L_e,0.9941314553990611
+Lysine,lys__L_e,0.9982394366197185
+Thioctic acid,lipoate_e,0.06338028169014086
+4-Aminobenzoic acid,nan,0.07042253521126761
+4-Aminobenzoic acid,nan,0.07042253521126761
+Nicotinamide,ncam_e,0.0715962441314554
+5-Methyluridine,uri_e,0.125
+Pyridoxine,pydxn_e,0.12676056338028172
+Xanthine,xan_e,0.1602112676056338
+Uridine,uri_e,0.16960093896713616
+Adenosine,adn_e,0.1813380281690141
+Biotin,btn_e,0.2007042253521127
+Xylose,xyl__D_e,0.21361502347417843
+Choline,chol_e,0.24413145539906106
+Riboflavin,ribflv_e,0.2676056338028169
+Nicotinic acid,nan,0.33039906103286387
+N-Acetyl-D-Glucosamine,acgam_e,0.3703051643192488
+Cytidine,cytd_e,0.40669014084507044
+Pantothenic acid,pnto__R_e,0.4084507042253521
+Glucose peak 1,nan,0.41079812206572774
+Betaine,betald_e,0.4642018779342723
+Glucose all peaks,nan,0.4694835680751174
+Guanosine,gsn_e,0.4812206572769953
+Thiamine,thmpp_e,0.4894366197183099
+Mannitol,mnl_e,0.49413145539906106
+Spermidine,spmd_e,0.4994131455399061
+Spermidine,spmd_e,0.4994131455399061
+Trigonelline,nan,0.5123239436619719
+Glucose peak 2,glc__D_e,0.5281690140845071
+Xanthosine peak 1,xtsn_e,0.534037558685446
+Xanthosine peak 2,xtsn_e,0.6232394366197183
+Taurine,taur_e,0.7136150234741785
+N-Acetyl-D-Muramic acid ,nan,0.732981220657277
+Ectoine,ectoine_e,0.7335680751173709
+N-Acetyl-Glutamine,gln__L_e,0.7435446009389671
+Myo-inositol peak 1,inost_e,0.75
+Sucrose,sucr_e,0.755281690140845
+Myo-inositol both peaks,inost_e,0.755868544600939
+Myo-inositol peak 2,inost_e,0.761737089201878
+Carnitine,crn__D_e,0.7799295774647887
+N-Acetyl-Lysine peak 1,lys__L_e,0.8186619718309859
+Gamma-Aminobutyric acid,nan,0.8444835680751175
+sn-Glycero-3-Phosphocholine,g3pc_e,0.875586854460094
+Citrulline,citr__L_e,0.8855633802816901
+N-Acetyl-Glutamic acid,nan,0.8896713615023475
+N-Acetyl-Lysine peak 2,lys__L_e,0.8961267605633803
+Folic acid,fol_e,0.9272300469483569
+Cysteine,cys__L_e,0.9917840375586854
+Ornithine,orn_e,1.0

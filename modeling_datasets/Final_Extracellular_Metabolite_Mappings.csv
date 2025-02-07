@@ -1,0 +1,77 @@
+label,Metabolite ID
+Thymine,thym_e
+Uracil,ura_e
+Adenine,ade_e
+Hypoxanthine,hxan_e
+Cytosine,csn_e
+Inosine,ins_e
+Guanine,gua_e
+Mannitol,mnl_e
+Phenylalanine,phe__L_e
+Leucine,ile__L_e
+Isoleucine,ile__L_e
+Tryptophan,trp__L_e
+Methionine,metox_e
+Proline,pro__L_e
+Valine,val__L_e
+Tyrosine,tyr__L_e
+Alanine,ala_B_e
+Threonine,thr__L_e
+Glycine,gly_e
+Serine,hom__L_e
+Glutamine,gln__L_e
+Asparagine,asn__L_e
+Trehalose,tre_e
+Histidine,his__L_e
+Glutamic acid,nacg_e
+Aspartic acid,asp__L_e
+Cystine,cysi__L_e
+Arginine,arg__L_e
+Lysine,lys__L_e
+Thioctic acid,lipoate_e
+4-Aminobenzoic acid,nan
+4-Aminobenzoic acid,nan
+Nicotinamide,ncam_e
+5-Methyluridine,uri_e
+Pyridoxine,pydxn_e
+Xanthine,xan_e
+Uridine,uri_e
+Adenosine,adn_e
+Biotin,btn_e
+Xylose,xyl__D_e
+Choline,chol_e
+Riboflavin,ribflv_e
+Nicotinic acid,nan
+N-Acetyl-D-Glucosamine,acgam_e
+Cytidine,cytd_e
+Pantothenic acid,pnto__R_e
+Glucose peak 1,nan
+Betaine,betald_e
+Glucose all peaks,nan
+Guanosine,gsn_e
+Thiamine,thmpp_e
+Mannitol,mnl_e
+Spermidine,spmd_e
+Spermidine,spmd_e
+Trigonelline,nan
+Glucose peak 2,glc__D_e
+Xanthosine peak 1,xtsn_e
+Xanthosine peak 2,xtsn_e
+Taurine,taur_e
+N-Acetyl-D-Muramic acid ,nan
+Ectoine,ectoine_e
+N-Acetyl-Glutamine,gln__L_e
+Myo-inositol peak 1,inost_e
+Sucrose,sucr_e
+Myo-inositol both peaks,inost_e
+Myo-inositol peak 2,inost_e
+Carnitine,crn__D_e
+N-Acetyl-Lysine peak 1,lys__L_e
+Gamma-Aminobutyric acid,nan
+sn-Glycero-3-Phosphocholine,g3pc_e
+Citrulline,citr__L_e
+N-Acetyl-Glutamic acid,nan
+N-Acetyl-Lysine peak 2,lys__L_e
+Folic acid,fol_e
+Cysteine,cys__L_e
+Ornithine,orn_e
